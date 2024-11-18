@@ -23,5 +23,7 @@ public class AppFecha {
         fut6.getEdad();
         fut7.getEdad();
 
+        fut2.validarFecha();
+
     }
 }
