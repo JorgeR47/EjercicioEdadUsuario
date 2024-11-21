@@ -14,6 +14,7 @@ public class AppFecha {
         Fecha fut5 = new Fecha(31, 10, -1);
         Fecha fut6 = new Fecha(30, 10, 2010);
         Fecha fut7 = new Fecha(30, 12, 2010);
+        Fecha fut9 =new Fecha(1,2,2010);
 
         fut1.getEdad();
         fut2.getEdad();
