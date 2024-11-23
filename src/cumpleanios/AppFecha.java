@@ -21,6 +21,7 @@ public class AppFecha {
 
 
         fut2.validarFecha();
+        Libro libro = new Libro("carlos","sanchez","dos");
 
     }
 }
